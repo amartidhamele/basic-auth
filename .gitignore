@@ -1,0 +1,8 @@
+# Virtual environments
+.env/
+
+# SQLite database
+auth.db
+
+# Secret configuration
+secrets.env
